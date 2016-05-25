@@ -21,7 +21,7 @@
   "dependencies": {
     "@ftbl/component": "^1.1.1",
     "@ftbl/form": "^1.4.8",
-    "@ftbl/icons": "^1.2.6",
+    "@ftbl/icons": "^1.2.7",
     "@ftbl/resource": "^1.0.4",
     "@ftbl/support": "^1.0.1",
     "@ftbl/validation": "^1.0.0",
