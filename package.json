@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/members-web",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React member management components",
   "main": "dist/index",
   "scripts": {
