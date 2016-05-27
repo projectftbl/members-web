@@ -29,6 +29,7 @@
     "frieze": "^1.2.1",
     "lodash": "^3.10.1",
     "lru-memoize": "^1.0.1",
+    "qs": "^6.2.0",
     "querystring": "^0.2.0",
     "radium": "^0.16.6",
     "react": "^0.14.8",
