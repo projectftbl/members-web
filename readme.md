@@ -1,3 +1,3 @@
-### @ftbl/members-web
+### @recipher/members-web
 
 Member management web components.
