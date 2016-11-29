@@ -2,5 +2,6 @@ node_modules/
 dist/
 svg/
 coverage/
+*.log
 
 .DS_Store
