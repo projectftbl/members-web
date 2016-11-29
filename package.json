@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/members-web",
-  "version": "1.1.4",
+  "name": "@recipher/members-web",
+  "version": "1.1.5",
   "description": "React member management components",
   "main": "dist/index",
   "scripts": {
@@ -16,15 +16,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/members-web.git"
+    "url": "git@github.com:recipher/members-web.git"
   },
   "dependencies": {
-    "@ftbl/component": "^1.1.1",
-    "@ftbl/form": "^1.4.8",
-    "@ftbl/icons": "^1.2.7",
-    "@ftbl/resource": "^1.0.4",
-    "@ftbl/support": "^1.0.1",
-    "@ftbl/validation": "^1.0.0",
+    "@recipher/component": "^1.1.1",
+    "@recipher/form": "^1.4.8",
+    "@recipher/icons": "^1.2.7",
+    "@recipher/resource": "^1.0.4",
+    "@recipher/support": "^1.0.1",
+    "@recipher/validation": "^1.0.0",
     "color": "^0.11.1",
     "frieze": "^1.2.1",
     "lodash": "^3.10.1",
