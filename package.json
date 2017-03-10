@@ -1,6 +1,10 @@
 {
   "name": "@recipher/members-web",
+<<<<<<< HEAD
   "version": "1.1.8",
+=======
+  "version": "1.1.6",
+>>>>>>> d92de45f04f021897f2e06430599a618f22d0083
   "description": "React member management components",
   "main": "dist/index",
   "scripts": {
